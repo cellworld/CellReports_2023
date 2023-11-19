@@ -23,3 +23,6 @@
 [submodule "dependency_date"]
 	path = dependency_date
 	url = https://github.com/cellworld/dependency_date.git
+[submodule "cellworld_robot_library"]
+	path = cellworld_robot_library
+	url = https://github.com/cellworld/cellworld_robot_library.git
