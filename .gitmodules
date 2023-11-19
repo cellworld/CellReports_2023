@@ -44,3 +44,6 @@
 [submodule "dependency_gauges"]
 	path = dependency_gauges
 	url = https://github.com/cellworld/dependency_gauges.git
+[submodule "cellworld_pid_controller"]
+	path = cellworld_pid_controller
+	url = https://github.com/cellworld/cellworld_pid_controller.git
