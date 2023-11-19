@@ -20,3 +20,6 @@
 [submodule "cellworld_agent_tracking"]
 	path = cellworld_agent_tracking
 	url = https://github.com/cellworld/cellworld_agent_tracking.git
+[submodule "dependency_date"]
+	path = dependency_date
+	url = https://github.com/cellworld/dependency_date.git
