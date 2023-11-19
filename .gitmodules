@@ -17,3 +17,6 @@
 [submodule "dependency_gamepad_lib"]
 	path = dependency_gamepad_lib
 	url = https://github.com/cellworld/dependency_gamepad_lib.git
+[submodule "cellworld_agent_tracking"]
+	path = cellworld_agent_tracking
+	url = https://github.com/cellworld/cellworld_agent_tracking.git
