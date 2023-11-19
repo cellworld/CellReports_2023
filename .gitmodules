@@ -59,3 +59,6 @@
 [submodule "cellworld_habitat_cv"]
 	path = cellworld_habitat_cv
 	url = https://github.com/cellworld/cellworld_habitat_cv.git
+[submodule "dependency_params_cpp"]
+	path = dependency_params_cpp
+	url = https://github.com/cellworld/dependency_params-cpp.git
