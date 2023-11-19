@@ -41,3 +41,6 @@
 [submodule "dependency_mcp2221"]
 	path = dependency_mcp2221
 	url = https://github.com/cellworld/dependency_mcp2221.git
+[submodule "dependency_gauges"]
+	path = dependency_gauges
+	url = https://github.com/cellworld/dependency_gauges.git
