@@ -56,3 +56,6 @@
 [submodule "dependency_tcp_messages"]
 	path = dependency_tcp_messages
 	url = https://github.com/cellworld/dependency_tcp-messages.git
+[submodule "cellworld_habitat_cv"]
+	path = cellworld_habitat_cv
+	url = https://github.com/cellworld/cellworld_habitat_cv.git
