@@ -1,3 +1,7 @@
 [submodule "dependency_json_cpp"]
 	path = dependency_json_cpp
 	url = https://github.com/cellworld/dependency_json-cpp.git
+	branch = Cellworld_2023
+[submodule "dependency_easy_tcp"]
+	path = dependency_easy_tcp
+	url = https://github.com/cellworld/dependency_easy-tcp
