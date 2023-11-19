@@ -50,3 +50,6 @@
 [submodule "robot_embedded_code"]
 	path = robot_embedded_code
 	url = https://github.com/cellworld/robot_embedded_code.git
+[submodule "dependency_perf_analysis"]
+	path = dependency_perf_analysis
+	url = https://github.com/cellworld/dependency_perf-analysis.git
