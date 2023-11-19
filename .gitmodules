@@ -11,3 +11,6 @@
 [submodule "cellworld"]
 	path = cellworld
 	url = https://github.com/cellworld/cellworld.git
+[submodule "cellworld_experiment_service"]
+	path = cellworld_experiment_service
+	url = https://github.com/cellworld/cellworld_experiment_service.git
