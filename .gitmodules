@@ -14,3 +14,6 @@
 [submodule "cellworld_experiment_service"]
 	path = cellworld_experiment_service
 	url = https://github.com/cellworld/cellworld_experiment_service.git
+[submodule "dependency_gamepad_lib"]
+	path = dependency_gamepad_lib
+	url = https://github.com/cellworld/dependency_gamepad_lib.git
