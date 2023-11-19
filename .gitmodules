@@ -35,3 +35,6 @@
 [submodule "dependency_thread_pool"]
 	path = dependency_thread_pool
 	url = https://github.com/cellworld/dependency_thread_pool.git
+[submodule "robot_assembly"]
+	path = robot_assembly
+	url = https://github.com/cellworld/robot_assembly.git
