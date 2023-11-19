@@ -32,3 +32,6 @@
 [submodule "arena_assembly"]
 	path = arena_assembly
 	url = https://github.com/cellworld/arena_assembly.git
+[submodule "dependency_thread_pool"]
+	path = dependency_thread_pool
+	url = https://github.com/cellworld/dependency_thread_pool.git
