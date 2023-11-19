@@ -53,3 +53,6 @@
 [submodule "dependency_perf_analysis"]
 	path = dependency_perf_analysis
 	url = https://github.com/cellworld/dependency_perf-analysis.git
+[submodule "dependency_tcp_messages"]
+	path = dependency_tcp_messages
+	url = https://github.com/cellworld/dependency_tcp-messages.git
