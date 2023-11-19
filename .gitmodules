@@ -68,3 +68,6 @@
 [submodule "cellworld_habitat_controller"]
 	path = cellworld_habitat_controller
 	url = https://github.com/cellworld/cellworld_habitat_controller.git
+[submodule "cellworld_habitat_pi"]
+	path = cellworld_habitat_pi
+	url = https://github.com/cellworld/cellworld_habitat_pi.git
