@@ -62,3 +62,6 @@
 [submodule "dependency_params_cpp"]
 	path = dependency_params_cpp
 	url = https://github.com/cellworld/dependency_params-cpp.git
+[submodule "public_data"]
+	path = public_data
+	url = https://github.com/cellworld/public_data.git
