@@ -5,3 +5,6 @@
 [submodule "dependency_easy_tcp"]
 	path = dependency_easy_tcp
 	url = https://github.com/cellworld/dependency_easy-tcp
+[submodule "dependency_requests"]
+	path = dependency_requests
+	url = https://github.com/cellworld/dependency_requests.git
