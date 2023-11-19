@@ -1,0 +1,3 @@
+[submodule "dependency_json_cpp"]
+	path = dependency_json_cpp
+	url = https://github.com/cellworld/dependency_json-cpp.git
