@@ -65,3 +65,6 @@
 [submodule "public_data"]
 	path = public_data
 	url = https://github.com/cellworld/public_data.git
+[submodule "cellworld_habitat_controller"]
+	path = cellworld_habitat_controller
+	url = https://github.com/cellworld/cellworld_habitat_controller.git
