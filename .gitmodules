@@ -38,3 +38,6 @@
 [submodule "robot_assembly"]
 	path = robot_assembly
 	url = https://github.com/cellworld/robot_assembly.git
+[submodule "dependency_mcp2221"]
+	path = dependency_mcp2221
+	url = https://github.com/cellworld/dependency_mcp2221.git
