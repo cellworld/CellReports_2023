@@ -8,3 +8,6 @@
 [submodule "dependency_requests"]
 	path = dependency_requests
 	url = https://github.com/cellworld/dependency_requests.git
+[submodule "cellworld"]
+	path = cellworld
+	url = https://github.com/cellworld/cellworld.git
