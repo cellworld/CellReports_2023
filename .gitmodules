@@ -29,3 +29,6 @@
 [submodule "dependency_catch"]
 	path = dependency_catch
 	url = https://github.com/cellworld/dependency_catch.git
+[submodule "arena_assembly"]
+	path = arena_assembly
+	url = https://github.com/cellworld/arena_assembly.git
