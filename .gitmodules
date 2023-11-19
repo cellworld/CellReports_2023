@@ -26,3 +26,6 @@
 [submodule "cellworld_robot_library"]
 	path = cellworld_robot_library
 	url = https://github.com/cellworld/cellworld_robot_library.git
+[submodule "dependency_catch"]
+	path = dependency_catch
+	url = https://github.com/cellworld/dependency_catch.git
