@@ -24,5 +24,5 @@ For more detailed information about the CellWorld System, please visit our [cell
 ## Contact
 If you have any questions or need further assistance, feel free to reach out to our lead contact:
 
-Lead Contact: Dr. Malcolm MacIver 
+Lead Contact: Dr. Malcolm MacIver<br>
 Email: maciver@northwestern.edu
