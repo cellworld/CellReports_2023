@@ -8,7 +8,7 @@ The code in this repository is directly related to the methods presented in our 
 
 ### Supplementary Videos
 
-The supplementary videos referenced in our paper "A Robot-Rodent Interaction Arena with Adjustable Spatial Complexity for Ethologically Relevant Behavioral Studies" provide a comprehensive demonstration of key aspects of the system. For example, these videos showcase results from a behavior task that leverages the intricate features of our system.
+The supplementary videos referenced in our paper "A Robot-Rodent Interaction Arena with Adjustable Spatial Complexity for Ethologically Relevant Behavioral Studies" provide a comprehensive demonstration of key aspects of the system. For example, these videos showcase results from a behavior task that leverages the system.
 
 Access the supplemental videos [here](https://doi.org/10.5281/zenodo.10157838) (DOI: 10.5281/zenodo.10157838)
 
