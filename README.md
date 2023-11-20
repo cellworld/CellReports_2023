@@ -13,7 +13,7 @@ The supplementary videos referenced in the paper "A Robot-Rodent Interaction Are
 Access the supplemental videos [here](https://doi.org/10.5281/zenodo.10157838) (DOI: 10.5281/zenodo.10157838)
 
 ## More Information
-For more detailed information about the CellWorld System, please visit our (cellworld website)[https://cellworld.github.io/paper.html]. 
+For more detailed information about the CellWorld System, please visit our [cellworld website](https://cellworld.github.io/paper.html). 
 
 
 ## Contact
