@@ -1,6 +1,6 @@
 # About The Project
 
-Welcome to the CellWorld System Git repository! This repository serves as the main hub for the CellWorld System, which relies on several external submodules. These submodules contain essential software required for the seamless operation of the CellWorld System.
+Welcome to the CellWorld System Git repository! This repository serves as the main hub for the CellWorld System, which relies on several external submodules. These submodules contain essential software required for the operation of the CellWorld System.
 
 ## Introduction
 
