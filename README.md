@@ -4,7 +4,7 @@ Welcome to the CellWorld System Git repository! This repository serves as the ma
 
 ## Related Work
 
-The code in this repository is directly related to the methods presented in our research paper titled "A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies". Here, you'll find the definitive version of all the software essential for operating the system, along with the experimental data presented in this research paper. 
+The code in this repository is directly related to the methods presented in our research paper titled "A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies". Here, you'll find the version of all the software essential for operating the system, along with the experimental data presented in this research paper. 
 
 ### Supplementary Videos
 
