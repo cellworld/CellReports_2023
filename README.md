@@ -51,7 +51,7 @@ make
 ```
 
 ## Python library installation
-All the python libraries are available in pypi and can be installed using pip.
+All the python libraries are available in pypi and can be installed using pip, e.g: 
 
 ```shell
 pip install cellworld
