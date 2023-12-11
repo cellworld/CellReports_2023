@@ -5,7 +5,10 @@ Welcome to the CellWorld System Git repository! This repository serves as the ma
 
 ## Content index
 
-### Notes
+### Notes:
+
+Scroll right to see all columns of the table.
+
 Usage column notation:
 - M: Used in Main Computer
 - H: Used in Habitat Raspberry pi (doors and water feeder controller)
