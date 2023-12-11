@@ -84,7 +84,9 @@ Access the supplemental videos [here](https://doi.org/10.5281/zenodo.10157838) (
 ### Figure Code 
 
 A notebook to generate the figures presented in our paper "A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies" can be accessed [here](https://colab.research.google.com/drive/1EbFh44LEhl9npWPzdv3WODliqK4Q9_h3?usp=sharing). Additionally, the data used to generate these figures is stored within the submodule [public_data](https://github.com/cellworld/public_data/tree/47ff373d1e4ca16e2baa5412820e7f439adcc326).
-
+A copy is of that code included in this package in the [Figures.ipynb](Figures.ipynb) file. 
+The code can be executed in the Google colab environment using the public runtime version [release-colab_20230921-060057_RC00](https://console.cloud.google.com/artifacts/docker/colab-images/us/public/runtime/sha256:4a26494c9c92ab4d0515e0715d79dfecbe8cfacb9b86fcfd55bc0274cb89530d). 
+The details to reproduce this environment configuration can be found in the [figures_runtime.txt](figures_runtime.txt) file. 
 
 ## More Information
 For more detailed information about the CellWorld System, please visit our [cellworld website](https://cellworld.github.io/paper.html). 
